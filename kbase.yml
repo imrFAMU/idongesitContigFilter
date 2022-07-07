@@ -1,0 +1,15 @@
+module-name:
+    idongesitContigFilter
+
+module-description:
+    A KBase module that filters the contigs by a "maximum_length"
+
+service-language:
+    python
+
+module-version:
+    0.0.1
+
+owners:
+    [idongesit]
+
